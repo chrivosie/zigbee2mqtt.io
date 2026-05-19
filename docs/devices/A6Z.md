@@ -27,6 +27,8 @@ pageClass: device-page
 
 <!-- Notes END: Do not edit below this line -->
 
+## Pairing
+If the indicator light does not flash rapidly, press the button for 5 to 7 seconds to reset the smart plug parameters to factory settings.
 
 ## OTA updates
 This device supports OTA updates, for more information see [OTA updates](../guide/usage/ota_updates.md).
